@@ -1,6 +1,6 @@
-PYTHON_VERSION ?= 3.12.5
+PYTHON_VERSION ?= 3.13.1
 VIRTUALENV_BIN ?= virtualenv
-SPHINX_VERSION ?= 8.0.2
+SPHINX_VERSION ?= 8.1.3
 
 default: python.info
 
